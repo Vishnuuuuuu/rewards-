@@ -27,6 +27,15 @@
 .App-link {
   color: #61dafb;
 }
+/* src/Header.css (if created) */
+header {
+  background-color: #f4f4f4; /* Example background color */
+  color: #333; /* Example text color */
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
 
 @keyframes App-logo-spin {
   from {
